@@ -1,0 +1,501 @@
+Rank,Name,Net Worth,Last_change,YTD_change,Country,Industry
+1,            Elon Musk,          $254B,          +$6.43B,          +$117B,          United States,          Technology
+2,            Bernard Arnault,          $204B,          -$8.89B,          +$41.5B,          France,          Consumer
+3,            Jeff Bezos,          $158B,          -$1.11B,          +$51.2B,          United States,          Technology
+4,            Bill Gates,          $136B,          +$83.1M,          +$27.1B,          United States,          Technology
+5,            Larry Ellison,          $134B,          +$67.3M,          +$42.5B,          United States,          Technology
+6,            Steve Ballmer,          $120B,          +$131M,          +$34.1B,          United States,          Technology
+7,            Warren Buffett,          $115B,          +$975M,          +$7.89B,          United States,          Diversified
+8,            Larry Page,          $114B,          -$549M,          +$30.6B,          United States,          Technology
+9,            Mark Zuckerberg,          $113B,          +$614M,          +$67.3B,          United States,          Technology
+10,            Sergey Brin,          $108B,          -$516M,          +$28.5B,          United States,          Technology
+11,            Carlos Slim,          $97.8B,          +$330M,          +$23.5B,          Mexico,          Diversified
+12,            Mukesh Ambani,          $96.7B,          +$2.07B,          +$9.64B,          India,          Energy
+13,            Francoise Bettencourt Meyers,          $93.4B,          -$1.51B,          +$21.9B,          France,          Consumer
+14,            Amancio Ortega,          $79.8B,          +$306M,          +$25.2B,          Spain,          Retail
+15,            Jim Walton,          $71.1B,          +$52.2M,          +$7.22B,          United States,          Retail
+16,            Rob Walton,          $69.2B,          +$68.6M,          +$5.93B,          United States,          Retail
+17,            Alice Walton,          $68.1B,          +$35.5M,          +$6.47B,          United States,          Retail
+18,            Zhong Shanshan,          $63.8B,          -$138M,          -$3.76B,          China,          Diversified
+19,            Charles Koch,          $62.6B,          -$23.1M,          -$4.44B,          United States,          Industrial
+20,            Julia Flesher Koch & family,          $62.6B,          -$25.9M,          -$4.47B,          United States,          Industrial
+21,            Michael Dell,          $62.3B,          +$230M,          +$13.9B,          United States,          Technology
+22,            Gautam Adani,          $60.5B,          +$901M,          -$60.1B,          India,          Industrial
+23,            Jacqueline Badger Mars,          $57.9B,          -$35.3M,          +$3.20B,          United States,          Food & Beverage
+24,            John Mars,          $57.9B,          -$35.3M,          +$3.20B,          United States,          Food & Beverage
+25,            Alain Wertheimer,          $51.3B,          -$801M,          +$8.09B,          France,          Consumer
+26,            Gerard Wertheimer,          $51.3B,          -$801M,          +$8.09B,          France,          Consumer
+27,            Klaus-Michael Kuehne,          $47.1B,          -$385M,          +$15.1B,          Germany,          Industrial
+28,            Changpeng Zhao,          $46.9B,          -$1.02B,          +$34.3B,          Canada,          Finance
+29,            Zhang Yiming,          $42.3B,          $0,          -$12.6B,          China,          Technology
+30,            Phil Knight & family,          $42.1B,          +$232M,          -$1.76B,          United States,          Consumer
+31,            Jensen Huang,          $41.6B,          +$863M,          +$27.7B,          United States,          Technology
+32,            Francois Pinault,          $41.2B,          -$521M,          +$5.45B,          France,          Consumer
+33,            Ma Huateng,          $40.1B,          -$27.6M,          +$3.57B,          China,          Technology
+34,            Tadashi Yanai,          $38.9B,          +$44.2M,          +$7.17B,          Japan,          Retail
+35,            Giovanni Ferrero & family,          $38.4B,          -$28.1M,          -$3.63B,          Italy,          Food & Beverage
+36,            Len Blavatnik,          $38.3B,          +$275M,          +$2.38B,          United States,          Diversified
+37,            Miriam Adelson,          $38.1B,          -$667M,          +$6.63B,          United States,          Entertainment
+38,            Ken Griffin,          $36.9B,          -$36.9M,          +$7.99B,          United States,          Finance
+39,            Stephen Schwarzman,          $35.3B,          +$83.6M,          +$8.79B,          United States,          Finance
+40,            Jeff Yass,          $35.0B,          -$29.2M,          +$2.20B,          United States,          Finance
+41,            Abigail Johnson,          $34.7B,          +$166M,          +$8.00B,          United States,          Finance
+42,            German Larrea,          $33.0B,          -$381M,          +$10.3B,          Mexico,          Commodities
+43,            Zeng Yuqun,          $32.9B,          -$514M,          +$139M,          Hong Kong,          Industrial
+44,            William Ding,          $32.8B,          +$230M,          +$10.0B,          China,          Technology
+45,            Shapoor Mistry,          $31.6B,          -$106M,          +$3.77B,          India,          Industrial
+46,            Jack Ma,          $30.8B,          -$111M,          -$1.43B,          China,          Technology
+47,            MacKenzie Scott,          $30.7B,          -$298M,          +$11.8B,          United States,          Technology
+48,            Dieter Schwarz,          $30.1B,          -$50.0M,          +$7.46B,          Germany,          Retail
+49,            Vladimir Potanin,          $29.7B,          +$213M,          +$1.09B,          Russian Federation,          Commodities
+50,            Li Ka-shing,          $29.2B,          -$45.0M,          +$752M,          Hong Kong,          Real Estate
+51,            Susanne Klatten,          $28.8B,          +$62.6M,          +$6.46B,          Germany,          Industrial
+52,            James Simons,          $28.7B,          -$25.0M,          +$4.13B,          United States,          Finance
+53,            Colin Huang,          $27.9B,          -$137M,          -$863M,          China,          Technology
+54,            Low Tuck Kwong,          $27.4B,          -$229M,          -$934M,          Indonesia,          Energy
+55,            Leonid Mikhelson,          $27.2B,          +$84.7M,          +$2.57B,          Russian Federation,          Energy
+56,            Shiv Nadar,          $26.8B,          +$88.8M,          +$2.31B,          India,          Technology
+57,            Reinhold Wuerth,          $26.7B,          +$15.7M,          +$13.6B,          Germany,          Industrial
+58,            Takemitsu Takizaki,          $26.5B,          +$23.6M,          +$4.45B,          Japan,          Technology
+59,            Iris Fontbona & family,          $26.5B,          -$329M,          +$2.70B,          Chile,          Commodities
+60,            Thomas Peterffy,          $26.2B,          -$242M,          +$3.62B,          United States,          Finance
+61,            Stefan Quandt,          $25.7B,          +$61.3M,          +$6.67B,          Germany,          Industrial
+62,            Thomas Frist,          $25.6B,          -$326M,          +$4.37B,          United States,          Health Care
+63,            Rodolphe Saade & family,          $25.2B,          -$326M,          +$9.08B,          France,          Services
+64,            Eric Schmidt,          $25.1B,          -$105M,          +$6.33B,          United States,          Technology
+65,            Azim Premji,          $25.0B,          +$422M,          +$992M,          India,          Technology
+66,            Lukas Walton,          $24.7B,          +$22.7M,          +$2.58B,          United States,          Retail
+67,            Vladimir Lisin,          $24.4B,          +$58.4M,          +$4.56B,          Russian Federation,          Industrial
+68,            He Xiangjian,          $24.3B,          -$193M,          +$1.45B,          China,          Consumer
+69,            Andrew Forrest,          $24.0B,          -$304M,          +$2.86B,          Australia,          Commodities
+70,            Ernesto Bertarelli & family,          $23.6B,          +$25.0M,          +$4.27B,          Switzerland,          Diversified
+71,            Xu Yangtian,          $23.5B,          $0,          $0,          China,          Retail
+72,            Elaine Marshall,          $23.2B,          -$13.5M,          +$913M,          United States,          Industrial
+73,            Leonard Lauder,          $23.1B,          -$78.8M,          -$3.34B,          United States,          Consumer
+74,            Budi Hartono,          $22.7B,          -$161M,          +$3.74B,          Indonesia,          Diversified
+75,            Henry Cheng,          $22.7B,          -$1.18M,          -$1.68B,          Hong Kong,          Retail
+76,            Dan Gilbert,          $22.5B,          -$325M,          +$5.13B,          United States,          Real Estate
+77,            Harold Hamm,          $22.5B,          $0,          +$75.0M,          United States,          Energy
+78,            Gina Rinehart,          $22.2B,          -$422M,          -$1.75B,          Australia,          Commodities
+79,            Eyal Ofer,          $21.8B,          -$47.2M,          +$5.47B,          Monaco,          Diversified
+80,            Jorge Paulo Lemann,          $21.8B,          -$95.5M,          +$547M,          Brazil,          Food & Beverage
+81,            Mark Mateschitz,          $21.7B,          +$26.2M,          +$5.14B,          Austria,          Food & Beverage
+82,            Vagit Alekperov,          $21.1B,          -$56.4M,          +$5.70B,          Russian Federation,          Energy
+83,            Gianluigi Aponte,          $20.8B,          -$11.5M,          +$4.65B,          Switzerland,          Services
+84,            Lee Shau Kee,          $20.6B,          -$896k,          -$141M,          Hong Kong,          Real Estate
+85,            Michael Hartono,          $20.5B,          -$155M,          +$2.55B,          Indonesia,          Diversified
+86,            Vicky Safra,          $20.4B,          -$1.72M,          +$3.00B,          Greece,          Finance
+87,            Idan Ofer,          $20.1B,          +$16.3M,          +$8.59B,          Israel,          Energy
+88,            Wang Chuan-Fu,          $19.8B,          -$74.9M,          -$139M,          China,          Consumer
+89,            Lakshmi Mittal,          $19.6B,          -$23.4M,          +$2.28B,          India,          Commodities
+90,            Stefan Persson,          $19.5B,          -$99.4M,          +$6.68B,          Sweden,          Retail
+91,            Dustin Moskovitz,          $19.1B,          +$110M,          +$8.00B,          United States,          Technology
+92,            John Menard,          $19.0B,          +$8.99M,          +$868M,          United States,          Retail
+93,            Alexey Mordashov,          $19.0B,          +$156M,          +$348M,          Russian Federation,          Industrial
+94,            Alisher Usmanov,          $18.7B,          -$66.1M,          +$250M,          Russian Federation,          Diversified
+95,            Radhakishan Damani,          $17.8B,          -$610M,          -$1.53B,          India,          Retail
+96,            Dilip Shanghvi,          $17.7B,          +$99.6M,          +$2.12B,          India,          Health Care
+97,            Liu Yongxing,          $17.3B,          -$40.8M,          +$2.14B,          China,          Industrial
+98,            Lui Che-Woo,          $17.3B,          -$1.01M,          +$1.19B,          Hong Kong,          Entertainment
+99,            Donald Bren,          $17.2B,          $0,          +$1.14B,          United States,          Real Estate
+100,            Cyrus Poonawalla,          $17.2B,          -$32.8M,          +$2.92B,          India,          Health Care
+101,            Eduardo Saverin,          $17.0B,          +$93.6M,          +$10.2B,          Brazil,          Technology
+102,            Savitri Jindal,          $17.0B,          -$80.5M,          +$3.08B,          India,          Commodities
+103,            Sammy Lee,          $16.8B,          -$13.4M,          -$1.11B,          Hong Kong,          Consumer
+104,            Robert Kuok,          $16.8B,          -$44.0M,          -$134M,          Malaysia,          Diversified
+105,            Peter Woo,          $16.8B,          -$2.60M,          -$2.14B,          Hong Kong,          Real Estate
+106,            Hasso Plattner,          $16.5B,          -$16.5M,          +$4.21B,          Germany,          Technology
+107,            Ray Dalio,          $16.5B,          $0,          +$340M,          United States,          Finance
+108,            David Tepper,          $16.4B,          $0,          +$1.09B,          United States,          Finance
+109,            Charlene de Carvalho-Heineken,          $16.4B,          -$94.0M,          +$2.66B,          Netherlands,          Food & Beverage
+110,            Jim Ratcliffe,          $16.4B,          -$217M,          +$5.58B,          United Kingdom,          Industrial
+111,            Aliko Dangote,          $16.2B,          -$210M,          -$2.46B,          Nigeria,          Industrial
+112,            Sherry Brydson,          $16.2B,          -$15.1M,          +$2.66B,          Canada,          Media & Telecom
+113,            Zhang Zhidong,          $16.1B,          -$1.18M,          +$1.34B,          China,          Technology
+114,            Harry Triguboff,          $16.0B,          $0,          +$3.20B,          Australia,          Real Estate
+115,            James Dyson,          $15.9B,          -$154M,          +$1.07B,          United Kingdom,          Consumer
+116,            Li Xiting,          $15.7B,          -$151M,          -$1.11B,          Singapore,          Health Care
+117,            Huang Shilin,          $15.4B,          -$235M,          +$92.0M,          China,          Industrial
+118,            Ricardo Salinas,          $15.1B,          +$93.1M,          +$3.60B,          Mexico,          Diversified
+119,            Alwaleed Bin Talal,          $15.1B,          -$18.8M,          -$376M,          Saudi Arabia,          Diversified
+120,            Mikhail Prokhorov,          $15.1B,          -$22.2M,          +$1.85B,          Russian Federation,          Diversified
+121,            Qin Yinglin,          $14.9B,          +$379M,          -$2.47B,          China,          Food & Beverage
+122,            Stan Kroenke,          $14.8B,          $0,          +$2.05B,          United States,          Real Estate
+123,            Uday Kotak,          $14.6B,          +$193M,          +$935M,          India,          Finance
+124,            Kumar Birla,          $14.5B,          +$163M,          +$3.12B,          India,          Industrial
+125,            Marijke Mars,          $14.4B,          -$8.79M,          +$796M,          United States,          Food & Beverage
+126,            Victoria Mars,          $14.4B,          -$8.79M,          +$796M,          United States,          Food & Beverage
+127,            Pamela Mars-Wright,          $14.4B,          -$8.79M,          +$796M,          United States,          Food & Beverage
+128,            Valerie Mars,          $14.4B,          -$8.79M,          +$796M,          United States,          Food & Beverage
+129,            Jan Koum,          $14.3B,          -$25.0M,          +$1.95B,          United States,          Technology
+130,            Dave Duffield,          $14.1B,          +$199M,          +$3.24B,          United States,          Technology
+131,            Paolo Rocca & family,          $14.0B,          +$482k,          +$2.61B,          Italy,          Commodities
+132,            Donald Newhouse,          $14.0B,          -$14.5M,          +$2.09B,          United States,          Media & Telecom
+133,            Gennady Timchenko,          $14.0B,          +$152M,          +$2.17B,          Russian Federation,          Diversified
+134,            Sunil Mittal,          $13.9B,          -$124M,          +$1.58B,          India,          Media & Telecom
+135,            Charoen Sirivadhanabhakdi,          $13.9B,          -$57.5M,          -$1.89B,          Thailand,          Food & Beverage
+136,            Wang Wenyin,          $13.8B,          -$191M,          -$447M,          China,          Commodities
+137,            Karl Albrecht Jr,          $13.6B,          +$16.9M,          +$284M,          Germany,          Retail
+138,            Beate Heister,          $13.6B,          +$16.9M,          +$284M,          Germany,          Retail
+139,            Xu Hang,          $13.4B,          -$126M,          -$1.15B,          Hong Kong,          Health Care
+140,            Johann Rupert & family,          $13.3B,          -$1.09B,          +$2.40B,          South Africa,          Diversified
+141,            Philip Anschutz,          $13.3B,          +$2.98M,          +$16.1M,          United States,          Diversified
+142,            Lv Xiang-yang,          $13.2B,          -$59.1M,          -$318M,          China,          Consumer
+143,            Steve Cohen,          $13.2B,          +$84.2k,          +$380M,          United States,          Finance
+144,            Wang Wei,          $13.1B,          -$156M,          -$1.69B,          China,          Services
+145,            Masayoshi Son,          $12.8B,          +$18.1M,          +$358M,          Japan,          Technology
+146,            Thomas Struengmann,          $12.8B,          -$53.6M,          -$1.20B,          Germany,          Health Care
+147,            Andreas Struengmann,          $12.8B,          -$53.6M,          -$1.20B,          Germany,          Health Care
+148,            Martin Viessmann & family,          $12.8B,          $0,          +$6.52B,          Germany,          Industrial
+149,            Li Shu Fu,          $12.8B,          -$1.84M,          -$1.64B,          China,          Industrial
+150,            Michael Platt,          $12.5B,          $0,          +$4.23B,          United Kingdom,          Finance
+151,            Andrey Melnichenko,          $12.4B,          -$99.3M,          -$748M,          Russian Federation,          Industrial
+152,            Zhang Bo,          $12.4B,          -$59.4M,          -$1.23B,          China,          Industrial
+153,            Melinda French Gates,          $12.1B,          +$14.8M,          +$1.22B,          United States,          Diversified
+154,            Raymond Kwok,          $12.1B,          -$533k,          +$140M,          Hong Kong,          Real Estate
+155,            Mikhail Fridman,          $12.0B,          +$77.5M,          +$732M,          Russian Federation,          Diversified
+156,            Robert Smith,          $12.0B,          $0,          +$100M,          United States,          Finance
+157,            Micky Arison,          $12.0B,          +$41.1M,          +$1.85B,          United States,          Entertainment
+158,            Alejandro Santo Domingo & family,          $11.9B,          -$49.2M,          +$506M,          Colombia,          Food & Beverage
+159,            Goh Cheng Liang,          $11.9B,          +$12.7M,          +$792M,          Singapore,          Industrial
+160,            Hugh Grosvenor,          $11.9B,          $0,          +$1.30B,          United Kingdom,          Real Estate
+161,            Brian Chesky,          $11.8B,          +$711M,          +$5.19B,          United States,          Services
+162,            Sarath Ratanavadi,          $11.7B,          +$152M,          -$960M,          Thailand,          Energy
+163,            Andy Bechtolsheim,          $11.6B,          +$222M,          +$2.78B,          Germany,          Technology
+164,            Renata Kellnerova,          $11.6B,          +$33.0M,          -$124M,          Czech Republic,          Diversified
+165,            Thomas Kwok,          $11.6B,          -$502k,          +$154M,          Hong Kong,          Real Estate
+166,            Leon Black,          $11.5B,          +$14.6M,          +$1.31B,          United States,          Finance
+167,            Izzy Englander,          $11.5B,          -$37.1k,          +$254M,          United States,          Finance
+168,            Elizabeth Johnson,          $11.4B,          +$35.5M,          +$2.20B,          United States,          Finance
+169,            Ned Johnson IV,          $11.4B,          +$35.6M,          +$2.19B,          United States,          Finance
+170,            Jim Goodnight,          $11.4B,          $0,          +$2.19B,          United States,          Technology
+171,            Jerry Jones,          $11.3B,          +$36.5M,          -$133M,          United States,          Entertainment
+172,            Dmitry Rybolovlev,          $11.3B,          +$11.4M,          +$1.24B,          Russian Federation,          Diversified
+173,            Mike Cannon-Brookes,          $11.3B,          +$82.5M,          +$3.14B,          Australia,          Technology
+174,            Lei Jun,          $11.3B,          +$1.15M,          +$796M,          China,          Technology
+175,            Judy Love,          $11.3B,          +$159M,          +$7.41B,          United States,          Retail
+176,            George Kaiser,          $11.2B,          +$92.6M,          +$3.74B,          United States,          Energy
+177,            George Roberts,          $11.2B,          +$10.4M,          +$2.16B,          United States,          Finance
+178,            Carl Cook,          $11.2B,          -$93.9M,          +$1.11B,          United States,          Health Care
+179,            Scott Farquhar,          $11.2B,          +$79.9M,          +$3.02B,          Australia,          Technology
+180,            K P Singh,          $11.2B,          +$126M,          +$2.88B,          India,          Real Estate
+181,            Pang Kang,          $11.2B,          -$73.4M,          -$5.97B,          China,          Food & Beverage
+182,            David Sun,          $11.2B,          +$76.5M,          +$4.34B,          United States,          Technology
+183,            John Tu,          $11.2B,          +$76.5M,          +$4.34B,          United States,          Technology
+184,            John Albert Sobrato,          $11.1B,          $0,          $0,          United States,          Real Estate
+185,            Robin Li,          $11.0B,          +$31.4M,          +$2.54B,          China,          Technology
+186,            Wang Xing,          $10.9B,          +$75.6M,          -$1.68B,          China,          Technology
+187,            Christy Walton,          $10.9B,          +$11.3M,          +$915M,          United States,          Retail
+188,            Andy Beal,          $10.8B,          +$2.72M,          +$1.06B,          United States,          Finance
+189,            Henry Kravis,          $10.8B,          +$9.25M,          +$2.05B,          United States,          Finance
+190,            Melker Schorling,          $10.8B,          -$50.5M,          +$1.20B,          Sweden,          Diversified
+191,            Wei Jianjun,          $10.7B,          -$182M,          -$1.70B,          China,          Consumer
+192,            Karel Komarek,          $10.7B,          -$66.7M,          +$2.92B,          Czech Republic,          Diversified
+193,            Gong Hongjia,          $10.6B,          -$102M,          +$775M,          China,          Technology
+194,            Charles Schwab,          $10.6B,          +$12.1M,          -$2.86B,          United States,          Finance
+195,            Michael Rubin,          $10.6B,          $0,          +$50.0M,          United States,          Retail
+196,            Sun Piaoyang,          $10.6B,          -$104M,          +$1.57B,          China,          Health Care
+197,            Dang Yanbao,          $10.5B,          -$91.4M,          +$799M,          China,          Energy
+198,            Carl Icahn,          $10.5B,          -$15.9M,          -$12.9B,          United States,          Diversified
+199,            Henry Samueli,          $10.4B,          +$194M,          +$3.37B,          United States,          Technology
+200,            Ravi Jaipuria,          $10.4B,          -$22.0M,          +$1.96B,          India,          Consumer
+201,            Dietmar Hopp,          $10.4B,          -$10.6M,          +$3.44B,          Germany,          Technology
+202,            Laurene Powell Jobs,          $10.3B,          -$78.7M,          -$1.82B,          United States,          Media & Telecom
+203,            Les Wexner,          $10.3B,          +$4.75M,          +$1.40B,          United States,          Retail
+204,            Tilman Fertitta,          $10.2B,          +$51.7M,          +$1.77B,          United States,          Entertainment
+205,            Wee Cho Yaw,          $10.1B,          -$40.3M,          -$301M,          Singapore,          Finance
+206,            Nathan Blecharczyk,          $10.1B,          +$131M,          +$4.01B,          United States,          Services
+207,            Jiang Rensheng,          $10.1B,          -$143M,          -$1.30B,          China,          Health Care
+208,            Vincent Bollore,          $10.1B,          -$119M,          +$1.37B,          France,          Diversified
+209,            Hansjoerg Wyss,          $10.1B,          +$30.2M,          +$1.66B,          Switzerland,          Health Care
+210,            Taylor Thomson,          $10.0B,          -$8.81M,          +$1.64B,          Canada,          Media & Telecom
+211,            Peter Thomson,          $10.0B,          -$8.81M,          +$1.64B,          Canada,          Media & Telecom
+212,            Diane Hendricks,          $10.0B,          +$176M,          +$6.30B,          United States,          Services
+213,            David Thomson,          $10.0B,          -$11.9M,          +$1.64B,          Canada,          Media & Telecom
+214,            Chen Bang,          $9.98B,          -$34.7M,          -$2.92B,          China,          Health Care
+215,            Ralph Sonnenberg,          $9.98B,          $0,          +$1.50B,          Netherlands,          Consumer
+216,            Marcel Telles,          $9.93B,          -$47.2M,          +$134M,          Brazil,          Food & Beverage
+217,            Peter Thiel,          $9.93B,          +$150M,          +$2.18B,          United States,          Finance
+218,            Stan Druckenmiller,          $9.88B,          $0,          -$200M,          United States,          Finance
+219,            Barry Lam,          $9.85B,          -$126M,          +$4.51B,          Taiwan,          Technology
+220,            Tito Beveridge,          $9.84B,          -$82.4M,          +$3.94B,          United States,          Consumer
+221,            Andrey Guryev,          $9.84B,          -$6.42M,          +$737M,          Russian Federation,          Industrial
+222,            Richard Liu,          $9.81B,          -$74.7M,          -$3.43B,          China,          Technology
+223,            Pierre Omidyar,          $9.75B,          +$480k,          +$1.25B,          United States,          Technology
+224,            John Fredriksen,          $9.75B,          -$71.5M,          +$914M,          Cyprus,          Industrial
+225,            Laurent Dassault,          $9.72B,          +$29.1M,          +$1.98B,          France,          Diversified
+226,            Tim Sweeney,          $9.70B,          $0,          +$100M,          United States,          Technology
+227,            Marie-Helene Habert-Dassault,          $9.69B,          +$29.0M,          +$1.98B,          France,          Diversified
+228,            Thierry Dassault,          $9.69B,          +$29.0M,          +$1.98B,          France,          Diversified
+229,            Laurence Graff,          $9.68B,          -$222M,          +$1.26B,          United Kingdom,          Consumer
+230,            Nusli Wadia,          $9.66B,          +$40.3M,          +$1.81B,          India,          Diversified
+231,            Steven Rales,          $9.64B,          -$77.4M,          -$593M,          United States,          Industrial
+232,            Graeme Hart,          $9.64B,          +$128M,          -$708M,          New Zealand,          Finance
+233,            Michael Kadoorie,          $9.59B,          -$346k,          +$721M,          Hong Kong,          Energy
+234,            Antonia Axson Johnson,          $9.58B,          +$48.9M,          -$429M,          Sweden,          Industrial
+235,            Mat Ishbia,          $9.44B,          -$67.6M,          +$4.71B,          United States,          Finance
+236,            Victor Rashnikov,          $9.43B,          +$81.6M,          +$895M,          Russian Federation,          Industrial
+237,            Patrick Soon-Shiong,          $9.42B,          +$84.0M,          +$492M,          United States,          Health Care
+238,            Manuel Villar,          $9.40B,          +$127M,          +$2.29B,          Philippines,          Diversified
+239,            Nicky Oppenheimer,          $9.35B,          -$25.0M,          +$1.33B,          South Africa,          Diversified
+240,            Sandra Ortega Mera,          $9.33B,          +$25.5M,          +$2.60B,          Spain,          Retail
+241,            Jay Y. Lee,          $9.25B,          -$29.0M,          +$2.74B,"          Korea, Republic of",          Diversified
+242,            Leo Koguan,          $9.22B,          +$260M,          +$4.23B,          United States,          Technology
+243,            Jay Chaudhry,          $9.21B,          +$360M,          +$2.35B,          United States,          Technology
+244,            Theo Albrecht Jr,          $9.20B,          +$7.82M,          -$90.6M,          Germany,          Retail
+245,            Charles Butt & family,          $9.20B,          $0,          -$1.29B,          United States,          Retail
+246,            Ma Jianrong,          $9.17B,          -$443k,          +$65.5M,          China,          Consumer
+247,            David Shaw,          $9.14B,          -$67.5k,          +$1.08B,          United States,          Finance
+248,            David Geffen,          $9.14B,          $0,          $0,          United States,          Entertainment
+249,            Ludwig Merckle,          $9.09B,          -$27.8M,          +$1.94B,          Germany,          Industrial
+250,            Richard Kinder,          $8.98B,          -$20.6M,          +$506M,          United States,          Energy
+251,            Andre Esteves,          $8.97B,          +$126M,          +$2.79B,          Brazil,          Finance
+252,            Stephen Ross,          $8.89B,          $0,          +$503M,          United States,          Real Estate
+253,            Jeffery Hildebrand,          $8.87B,          +$45.9M,          -$2.33B,          United States,          Energy
+254,            Joe Gebbia,          $8.85B,          -$411M,          +$2.90B,          United States,          Services
+255,            Gabe Newell,          $8.78B,          +$231M,          +$1.88B,          United States,          Technology
+256,            Dan Cathy,          $8.76B,          +$3.92M,          +$604M,          United States,          Food & Beverage
+257,            Bubba Cathy,          $8.76B,          +$3.92M,          +$604M,          United States,          Food & Beverage
+258,            Terry Pegula,          $8.73B,          +$506k,          +$734M,          United States,          Energy
+259,            John Malone,          $8.71B,          +$12.2M,          +$751M,          United States,          Media & Telecom
+260,            Prince Hans-Adam II,          $8.68B,          +$88.5M,          +$1.24B,          Liechtenstein,          Finance
+261,            Wang Liping,          $8.66B,          -$84.6M,          +$181M,          China,          Industrial
+262,            Marc Benioff,          $8.66B,          -$39.1M,          +$2.76B,          United States,          Technology
+263,            Pei Zhenhua,          $8.65B,          -$149M,          -$573M,          China,          Industrial
+264,            Josh Harris,          $8.64B,          +$26.9M,          +$1.28B,          United States,          Finance
+265,            Reinhold Schmieding,          $8.63B,          -$58.9M,          +$2.96B,          United States,          Health Care
+266,            Ronda Stryker,          $8.62B,          -$76.8M,          +$1.31B,          United States,          Health Care
+267,            Rupert Murdoch,          $8.60B,          +$16.5M,          +$997M,          United States,          Media & Telecom
+268,            Suleiman Kerimov,          $8.57B,          -$25.0M,          -$425M,          Russian Federation,          Commodities
+269,            Jorge Moll & family,          $8.55B,          +$162M,          +$1.61B,          Brazil,          Health Care
+270,            Tom Gores,          $8.55B,          $0,          +$375M,          United States,          Finance
+271,            Carlos Sicupira,          $8.52B,          +$1.39M,          +$290M,          Brazil,          Food & Beverage
+272,            Anthony Pratt,          $8.49B,          -$44.5M,          +$69.9M,          Australia,          Industrial
+273,            German Khan,          $8.49B,          +$45.8M,          +$915M,          Russian Federation,          Diversified
+274,            Ivan Glasenberg,          $8.49B,          -$220M,          -$511M,          Australia,          Commodities
+275,            Tammy Gustavson,          $8.48B,          -$19.1M,          +$811M,          United States,          Services
+276,            Juan Beckmann Vidal & family,          $8.45B,          +$8.65M,          +$901M,          Mexico,          Food & Beverage
+277,            Ralph Lauren,          $8.43B,          -$11.4M,          +$1.26B,          United States,          Consumer
+278,            Robert Pera,          $8.42B,          -$42.2M,          -$3.92B,          United States,          Technology
+279,            Jude Reyes,          $8.36B,          $0,          +$801M,          United States,          Consumer
+280,            Chris Reyes,          $8.36B,          $0,          +$801M,          United States,          Consumer
+281,            Randa Williams,          $8.35B,          +$21.4M,          +$1.12B,          United States,          Energy
+282,            Dannine Avara,          $8.34B,          +$21.3M,          +$1.11B,          United States,          Energy
+283,            Scott Duncan,          $8.34B,          +$21.3M,          +$1.11B,          United States,          Energy
+284,            Blair Parry-Okeden,          $8.32B,          -$94.2M,          +$516M,          United States,          Media & Telecom
+285,            Jim Kennedy,          $8.32B,          -$94.2M,          +$516M,          United States,          Media & Telecom
+286,            Milane Frantz,          $8.31B,          -$3.68M,          +$1.08B,          United States,          Energy
+287,            Patrick Ryan,          $8.27B,          +$32.7M,          +$753M,          United States,          Services
+288,            Stefano Pessina,          $8.24B,          -$11.6M,          -$574M,          Monaco,          Retail
+289,            Liu Hanyuan,          $8.14B,          -$109M,          -$1.29B,          China,          Industrial
+290,            Tony Ressler,          $8.12B,          -$5.56M,          +$2.13B,          United States,          Finance
+291,            Magdalena Martullo,          $8.07B,          +$28.0M,          +$1.36B,          Switzerland,          Industrial
+292,            Steven Spielberg,          $8.03B,          -$25.0M,          +$975M,          United States,          Entertainment
+293,            Michael Herz & family,          $7.99B,          -$32.2M,          +$901M,          Germany,          Consumer
+294,            Wolfgang Herz & family,          $7.99B,          -$32.2M,          +$901M,          Germany,          Consumer
+295,            Li Shuirong,          $7.99B,          +$25.0M,          -$2.03B,          China,          Energy
+296,            Stef Wertheimer,          $7.95B,          $0,          +$1.10B,          Israel,          Diversified
+297,            Leonid Fedun,          $7.95B,          -$19.3M,          +$2.08B,          Russian Federation,          Energy
+298,            Frank Lowy,          $7.93B,          -$25.0M,          +$1.13B,          Australia,          Real Estate
+299,            James Pattison,          $7.92B,          +$65.4M,          +$775M,          Canada,          Media & Telecom
+300,            Zhang Congyuan,          $7.89B,          +$182M,          -$689M,          Taiwan,          Industrial
+301,            Linda Campbell,          $7.89B,          -$6.38M,          +$1.29B,          Canada,          Media & Telecom
+302,            Gaye Farncombe,          $7.89B,          -$6.38M,          +$1.31B,          Canada,          Media & Telecom
+303,            Dan Friedkin,          $7.82B,          +$334M,          +$1.86B,          United States,          Retail
+304,            David Velez,          $7.81B,          +$149M,          +$3.77B,          Colombia,          Finance
+305,            Nancy Laurie,          $7.78B,          +$7.58M,          +$674M,          United States,          Retail
+306,            Nassef Sawiris,          $7.78B,          -$49.4M,          +$750M,          Egypt,          Industrial
+307,            Rahel Blocher,          $7.77B,          +$3.49M,          +$1.30B,          Switzerland,          Industrial
+308,            Yu Yong,          $7.65B,          -$127M,          +$1.20B,          China,          Finance
+309,            Liu Yonghao,          $7.62B,          -$19.9M,          -$478M,          China,          Diversified
+310,            Natie Kirsh,          $7.57B,          -$2.25M,          +$118M,          South Africa,          Food & Beverage
+311,            Roman Abramovich,          $7.55B,          +$13.1M,          -$269M,          Russian Federation,          Diversified
+312,            Takahisa Takahara,          $7.53B,          +$8.78M,          +$32.2M,          Japan,          Consumer
+313,            Anthony Bamford & family,          $7.52B,          +$30.5M,          +$574M,          United Kingdom,          Industrial
+314,            Shari Arison,          $7.52B,          -$81.7M,          +$715M,          Israel,          Diversified
+315,            Ashwin Dani & family,          $7.45B,          +$71.5M,          +$907M,          India,          Industrial
+316,            Tom Morris,          $7.45B,          -$13.3M,          -$547M,          United Kingdom,          Retail
+317,            Zhong Huijuan,          $7.43B,          -$493k,          -$978M,          China,          Health Care
+318,            Heinrich Deichmann & family,          $7.43B,          +$66.3M,          +$1.58B,          Germany,          Retail
+319,            Lynn Schusterman,          $7.41B,          +$950k,          +$1.02B,          United States,          Energy
+320,            Qi Shi,          $7.38B,          -$117M,          -$1.25B,          China,          Finance
+321,            Xu Shihui,          $7.36B,          -$407k,          +$307M,          China,          Food & Beverage
+322,            Jin Baofang,          $7.36B,          -$171M,          -$2.32B,          China,          Energy
+323,            Wu Yajun,          $7.35B,          -$475k,          -$2.24B,          China,          Real Estate
+324,            Yeung Kin-Man,          $7.33B,          -$38.6M,          +$1.86B,          Hong Kong,          Technology
+325,            Giorgio Armani,          $7.31B,          -$41.6M,          +$1.67B,          Italy,          Consumer
+326,            Georg Schaeffler,          $7.25B,          -$14.2M,          +$1.74B,          Germany,          Industrial
+327,            Viktor Vekselberg,          $7.23B,          -$19.7M,          +$219M,          Russian Federation,          Industrial
+328,            Chip Wilson,          $7.22B,          +$35.3M,          +$1.67B,          Canada,          Retail
+329,            Robert Kraft,          $7.22B,          +$230k,          +$21.1M,          United States,          Entertainment
+330,            Geoffrey Kwok,          $7.20B,          -$392k,          -$136M,          Hong Kong,          Real Estate
+331,            Niels Louis-Hansen,          $7.18B,          -$10.9M,          +$484M,          Denmark,          Health Care
+332,            Terry Gou,          $7.17B,          -$12.6M,          +$656M,          Taiwan,          Industrial
+333,            George Soros,          $7.16B,          $0,          -$1.34B,          United States,          Finance
+334,            Lin Shu-Hong,          $7.13B,          -$59.5M,          +$1.45B,          Taiwan,          Industrial
+335,            Alexander Abramov,          $7.11B,          +$8.87M,          +$713M,          Russian Federation,          Industrial
+336,            Rocco Commisso,          $7.10B,          -$9.93M,          +$1.02B,          United States,          Media & Telecom
+337,            Simon Reuben,          $7.10B,          $0,          +$675M,          United Kingdom,          Diversified
+338,            David Reuben,          $7.10B,          $0,          +$675M,          United Kingdom,          Diversified
+339,            Edward Roski,          $7.06B,          $0,          +$125M,          United States,          Real Estate
+340,            Cao Renxian,          $7.06B,          -$2.53M,          -$138M,          China,          Technology
+341,            Bob Rich,          $7.03B,          -$64.1M,          +$303M,          United States,          Food & Beverage
+342,            Ding Shizhong,          $7.02B,          -$433k,          -$973M,          China,          Consumer
+343,            Gwendolyn Sontheim Meyer,          $7.02B,          $0,          -$604M,          United States,          Commodities
+344,            Pauline Keinath,          $7.02B,          $0,          -$604M,          United States,          Commodities
+345,            Miuccia Prada,          $7.01B,          -$429k,          +$1.72B,          Italy,          Consumer
+346,            Patrizio Bertelli,          $6.99B,          -$429k,          +$1.70B,          Italy,          Consumer
+347,            John Grayken,          $6.97B,          +$26.3M,          +$883M,          Ireland,          Finance
+348,            Carl Bennet,          $6.97B,          +$55.7M,          +$626M,          Sweden,          Finance
+349,            Sri Prakash Lohia,          $6.96B,          +$19.9M,          +$1.51B,          Indonesia,          Industrial
+350,            Richard LeFrak,          $6.95B,          -$26.7M,          +$160M,          United States,          Real Estate
+351,            Piero Ferrari,          $6.93B,          -$1.33M,          +$2.32B,          Italy,          Consumer
+352,            Thomas Schmidheiny,          $6.92B,          -$19.4M,          +$1.53B,          Switzerland,          Industrial
+353,            Kjeld Kirk Kristiansen,          $6.90B,          -$16.0M,          +$1.04B,          Denmark,          Consumer
+354,            Gary Rollins,          $6.89B,          +$24.9M,          +$1.07B,          United States,          Industrial
+355,            Leonard Stern,          $6.88B,          $0,          +$381M,          United States,          Real Estate
+356,            Benu Bangur,          $6.86B,          -$51.6M,          +$330M,          India,          Commodities
+357,            Marc Rowan,          $6.84B,          +$22.6M,          +$1.13B,          United States,          Finance
+358,            Johann Graf,          $6.80B,          +$35.1M,          +$1.78B,          Austria,          Entertainment
+359,            Pat Stryker,          $6.80B,          -$49.2M,          +$1.14B,          United States,          Health Care
+360,            Henry Laufer,          $6.78B,          $0,          +$800M,          United States,          Finance
+361,            Mark Cuban,          $6.77B,          $0,          +$525M,          United States,          Technology
+362,            Andre Hoffmann,          $6.76B,          +$2.58M,          -$156M,          Switzerland,          Health Care
+363,            Ann Kroenke,          $6.76B,          +$7.58M,          +$621M,          United States,          Retail
+364,            Mahendra Choksi & family,          $6.74B,          +$66.2M,          +$798M,          India,          Industrial
+365,            J K Irving,          $6.73B,          -$18.6M,          +$481M,          Canada,          Commodities
+366,            Ding Shijia,          $6.73B,          -$416k,          -$952M,          China,          Consumer
+367,            Li Xiang,          $6.69B,          +$212M,          +$3.16B,          China,          Technology
+368,            Dennis Washington,          $6.66B,          -$11.0M,          +$1.10B,          United States,          Industrial
+369,            Frederik Paulsen,          $6.64B,          -$31.6M,          +$1.21B,          Sweden,          Health Care
+370,            Joe Lewis,          $6.63B,          +$23.9M,          +$453M,          United Kingdom,          Diversified
+371,            Lin Jianhua,          $6.63B,          -$9.08M,          -$2.23B,          China,          Technology
+372,            Todd Boehly,          $6.62B,          +$8.85M,          +$712M,          United States,          Diversified
+373,            Alain Bouchard,          $6.59B,          +$43.3M,          +$935M,          Canada,          Retail
+374,            Richard White,          $6.58B,          +$86.6M,          +$2.33B,          Australia,          Technology
+375,            Wang Jianlin,          $6.56B,          -$42.1M,          +$451M,          China,          Real Estate
+376,            Alain Merieux,          $6.55B,          -$33.2M,          +$223M,          France,          Health Care
+377,            Pedro Moreira Salles,          $6.55B,          +$30.1M,          +$1.07B,          Brazil,          Finance
+378,            Cen Junda,          $6.54B,          -$69.3M,          +$508M,          China,          Health Care
+379,            Wu Shaoxun,          $6.53B,          -$50.6M,          -$1.18B,          China,          Food & Beverage
+380,            Edward Cadogan,          $6.52B,          $0,          +$715M,          United Kingdom,          Real Estate
+381,            George Lucas,          $6.51B,          -$113M,          +$351M,          United States,          Entertainment
+382,            Ken Xie,          $6.50B,          +$107M,          +$2.59B,          United States,          Technology
+383,            Murali Divi,          $6.48B,          -$15.4M,          +$508M,          India,          Health Care
+384,            Clive Calder,          $6.48B,          -$25.0M,          +$875M,          United Kingdom,          Entertainment
+385,            Mitchell Rales,          $6.47B,          -$57.7M,          -$936M,          United States,          Industrial
+386,            Woody Johnson,          $6.47B,          -$1.25M,          +$173M,          United States,          Diversified
+387,            Yang Huiyan,          $6.46B,          -$335k,          -$3.42B,          China,          Real Estate
+388,            Peter-Alexander Wacker & family,          $6.46B,          -$29.9M,          +$1.14B,          Germany,          Industrial
+389,            David Cheriton,          $6.44B,          +$57.9M,          +$1.21B,          Canada,          Technology
+390,            Liz Mohn,          $6.44B,          +$14.2M,          +$755M,          Germany,          Media & Telecom
+391,            Anthony von Mandl,          $6.44B,          $0,          -$224M,          Canada,          Consumer
+392,            Fernando Moreira Salles,          $6.43B,          +$3.97M,          +$1.09B,          Brazil,          Finance
+393,            Chen Jianhua,          $6.42B,          -$81.3M,          -$2.08B,          China,          Industrial
+394,            Luis Sarmiento,          $6.42B,          +$200M,          +$843M,          Colombia,          Finance
+395,            Samuel Yin,          $6.40B,          +$76.3M,          -$1.59B,          Taiwan,          Diversified
+396,            Thomas Kirk Kristiansen,          $6.40B,          +$9.05M,          +$961M,          Denmark,          Consumer
+397,            Agnete Kirk Thinggaard,          $6.40B,          +$9.05M,          +$961M,          Denmark,          Consumer
+398,            Sofie Kirk Kristiansen,          $6.40B,          +$9.04M,          +$961M,          Denmark,          Consumer
+399,            Ernie Garcia,          $6.40B,          +$76.5M,          +$3.17B,          United States,          Consumer
+400,            Chris Hohn,          $6.40B,          -$4.28M,          -$1.77B,          United Kingdom,          Finance
+401,            John Brown,          $6.39B,          -$78.2M,          +$1.16B,          United States,          Technology
+402,            Enrique Razon,          $6.39B,          -$22.3M,          +$1.03B,          Philippines,          Services
+403,            Jeff Skoll,          $6.38B,          $0,          +$900M,          United States,          Technology
+404,            Vikram Lal,          $6.37B,          +$12.2M,          +$369M,          India,          Industrial
+405,            Joe Ricketts,          $6.35B,          $0,          +$425M,          United States,          Finance
+406,            Tsai Eng-Meng,          $6.33B,          -$338k,          +$427M,          Taiwan,          Food & Beverage
+407,            Bidzina Ivanishvili,          $6.32B,          $0,          +$725M,          Georgia,          Diversified
+408,            Naguib Sawiris,          $6.31B,          +$3.58M,          +$1.21B,          Egypt,          Media & Telecom
+409,            John Doerr,          $6.30B,          -$19.2M,          +$1.55B,          United States,          Finance
+410,            Shahid Khan,          $6.28B,          -$1.79M,          -$934M,          United States,          Consumer
+411,            Guillaume Pousaz,          $6.27B,          $0,          $0,          Switzerland,          Technology
+412,            Michael Smith,          $6.25B,          $0,          +$25.0M,          United States,          Energy
+413,            Ronald McAulay,          $6.24B,          -$171k,          +$535M,          Hong Kong,          Energy
+414,            Kenneth Dart,          $6.19B,          -$14.3M,          -$1.36B,          Cayman Islands,          Finance
+415,            Vera Michalski-Hoffmann,          $6.19B,          +$2.58M,          -$328M,          Switzerland,          Health Care
+416,            Maja Hoffmann,          $6.19B,          +$2.58M,          -$256M,          Switzerland,          Health Care
+417,            Lu Weiding,          $6.18B,          -$65.4M,          -$792M,          China,          Diversified
+418,            Joseph Tsai,          $6.18B,          -$41.7M,          +$191M,          Canada,          Technology
+419,            Zhou Qunfei,          $6.17B,          +$3.39M,          +$767M,          China,          Technology
+420,            Bernie Marcus,          $6.13B,          $0,          +$875M,          United States,          Retail
+421,            Joao Moreira Salles,          $6.11B,          +$24.0M,          +$1.04B,          Brazil,          Finance
+422,            Walther Moreira Salles Jr,          $6.11B,          +$23.1M,          +$1.04B,          Brazil,          Finance
+423,            Tobi Lutke,          $6.09B,          +$16.6M,          +$2.77B,          Canada,          Technology
+424,            Vyacheslav Kantor,          $6.08B,          -$14.7M,          -$288M,          Russian Federation,          Industrial
+425,            Joseph Lau,          $6.07B,          -$54.8k,          -$21.7M,          Hong Kong,          Real Estate
+426,            Jon Gray,          $6.06B,          +$14.9M,          +$1.56B,          United States,          Finance
+427,            Rafael Del Pino,          $6.04B,          +$16.4M,          +$1.18B,          Spain,          Industrial
+428,            Alexey Kuzmichev,          $6.04B,          +$11.2M,          +$615M,          Russian Federation,          Diversified
+429,            David Steward,          $6.00B,          +$81.1M,          +$990M,          United States,          Technology
+430,            M A Yusuff Ali,          $5.99B,          +$1.51M,          +$1.06B,          United Arab Emirates,          Food & Beverage
+431,            Tomasz Biernacki,          $5.98B,          +$66.8M,          +$1.67B,          Poland,          Retail
+432,            Pankaj Patel,          $5.98B,          +$80.4M,          +$1.86B,          India,          Health Care
+433,            Ray Hunt,          $5.98B,          +$22.4M,          +$566M,          United States,          Energy
+434,            Vladimir Kim,          $5.97B,          +$11.6M,          +$177M,          Kazakhstan,          Commodities
+435,            Tatyana Bakalchuk,          $5.97B,          -$10.8M,          +$1.51B,          Russian Federation,          Technology
+436,            Trevor Rees-Jones,          $5.96B,          $0,          +$676M,          United States,          Energy
+437,            Thomas Pritzker,          $5.93B,          +$48.8M,          +$1.11B,          United States,          Finance
+438,            Lai Meisong,          $5.92B,          $0,          +$236M,          China,          Services
+439,            Theo Mueller,          $5.91B,          -$25.1M,          +$1.54B,          Germany,          Food & Beverage
+440,            Rahul Bhatia,          $5.90B,          +$41.2M,          +$1.34B,          India,          Consumer
+441,            Kwon Hyuk-Bin,          $5.89B,          $0,          +$525M,"          Korea, Republic of",          Media & Telecom
+442,            Ruan Liping,          $5.88B,          -$4.01M,          -$45.9M,          China,          Industrial
+443,            Ruan Xueping,          $5.86B,          -$4.01M,          -$45.9M,          China,          Industrial
+444,            Petr Aven,          $5.84B,          +$3.07M,          +$546M,          Russian Federation,          Diversified
+445,            Charles Johnson,          $5.84B,          +$43.2M,          +$615M,          United States,          Finance
+446,            Alex Gerko,          $5.83B,          -$31.4M,          -$14.5M,          United Kingdom,          Finance
+447,            Francis Choi,          $5.81B,          -$3.87k,          -$40.8M,          Hong Kong,          Real Estate
+448,            Marian Ilitch,          $5.81B,          +$25.0M,          +$1.13B,          United States,          Food & Beverage
+449,            John Overdeck,          $5.80B,          -$171k,          +$23.1M,          United States,          Finance
+450,            David Siegel,          $5.80B,          -$171k,          +$23.1M,          United States,          Finance
+451,            Rudolf Maag,          $5.80B,          -$84.4M,          +$1.54B,          Switzerland,          Health Care
+452,            David Filo,          $5.80B,          $0,          +$825M,          United States,          Technology
+453,            Abdullah Al Ghurair,          $5.72B,          +$4.51M,          +$934M,          United Arab Emirates,          Diversified
+454,            Margot Perot & family,          $5.70B,          -$25.0M,          +$775M,          United States,          Diversified
+455,            Li Ping,          $5.69B,          -$86.3M,          +$35.4M,          China,          Industrial
+456,            Maria Angelicoussis,          $5.69B,          $0,          +$368M,          Greece,          Industrial
+457,            Wang Laisheng,          $5.69B,          -$29.8M,          +$322M,          China,          Industrial
+458,            John Sall,          $5.68B,          $0,          +$1.10B,          United States,          Technology
+459,            Ahmet Ahlatci,          $5.68B,          -$47.0M,          +$528M,          Turkey,          Industrial
+460,            Sophie Bellon,          $5.67B,          -$1.26M,          +$1.11B,          France,          Retail
+461,            Anthoni Salim,          $5.67B,          -$37.8M,          +$145M,          Indonesia,          Diversified
+462,            Andreas Halvorsen,          $5.65B,          -$384k,          -$478M,          Norway,          Finance
+463,            Lin Muqin,          $5.64B,          +$15.2M,          -$76.7M,          China,          Consumer
+464,            Kelcy Warren,          $5.64B,          -$4.43M,          +$673M,          United States,          Energy
+465,            Dagmar Dolby,          $5.63B,          -$12.7M,          +$1.02B,          United States,          Entertainment
+466,            Li Zhenguo,          $5.62B,          -$71.3M,          -$2.89B,          China,          Energy
+467,            Scott Cook,          $5.62B,          +$48.6M,          +$1.02B,          United States,          Technology
+468,            Arthur Irving,          $5.61B,          +$20.1M,          -$169M,          Canada,          Energy
+469,            Marcos Galperin,          $5.58B,          +$165M,          +$1.38B,          Argentina,          Technology
+470,            Mark Scheinberg,          $5.58B,          $0,          +$700M,          Isle of Man,          Entertainment
+471,            Patrick Drahi,          $5.55B,          -$59.3M,          +$72.1M,          France,          Media & Telecom
+472,            Thomas Straumann,          $5.53B,          -$119M,          +$1.35B,          Switzerland,          Health Care
+473,            Xavier Niel,          $5.53B,          -$40.5M,          -$2.27B,          France,          Technology
+474,            Reed Hastings,          $5.53B,          +$69.0M,          +$1.64B,          United States,          Technology
+475,            Mary Malone,          $5.52B,          -$24.0M,          -$154M,          United States,          Food & Beverage
+476,            Margaretta Taylor,          $5.50B,          -$62.3M,          +$342M,          United States,          Media & Telecom
+477,            James Cox Chambers,          $5.50B,          -$62.3M,          +$342M,          United States,          Media & Telecom
+478,            Katharine Rayner,          $5.50B,          -$62.3M,          +$342M,          United States,          Media & Telecom
+479,            Yasumitsu Shigeta,          $5.50B,          +$6.55M,          +$443M,          Japan,          Media & Telecom
+480,            Brian Acton,          $5.50B,          $0,          +$775M,          United States,          Technology
+481,            Gordon Getty,          $5.50B,          $0,          +$750M,          United States,          Diversified
+482,            Jim Davis,          $5.50B,          +$33.0M,          +$218M,          United States,          Consumer
+483,            Richard Tsai,          $5.47B,          +$112M,          +$585M,          Taiwan,          Finance
+484,            Wu Jianshu,          $5.45B,          -$47.4M,          -$726M,          Hong Kong,          Industrial
+485,            Mohammed Al Amoudi,          $5.43B,          +$8.59M,          -$26.3M,          Saudi Arabia,          Energy
+486,            Axel Oberwelland,          $5.43B,          +$6.75M,          -$238M,          Germany,          Food & Beverage
+487,            Fred Smith,          $5.41B,          -$48.7M,          +$1.63B,          United States,          Services
+488,            Sergey Galitskiy,          $5.41B,          +$1.06M,          +$678M,          Russian Federation,          Retail
+489,            Angela Leong,          $5.40B,          -$29.3k,          +$29.6M,          Hong Kong,          Entertainment
+490,            Anders Holch Povlsen & family,          $5.39B,          +$30.0M,          +$518M,          Denmark,          Retail
+491,            Willi Liebherr,          $5.38B,          +$10.5M,          +$247M,          Germany,          Industrial
+492,            Isolde Liebherr,          $5.38B,          +$10.5M,          +$247M,          Germany,          Industrial
+493,            Rupert Johnson,          $5.35B,          +$47.4M,          +$635M,          United States,          Finance
+494,            Zhang Lei,          $5.35B,          +$9.18M,          +$58.7M,          China,          Finance
+495,            Charles Dolan & family,          $5.34B,          -$7.28M,          +$479M,          United States,          Media & Telecom
+496,            Dick Schulze,          $5.34B,          +$22.4M,          +$563M,          United States,          Retail
+497,            Sergei Popov,          $5.34B,          +$339k,          +$761M,          Russian Federation,          Diversified
+498,            Jack Dorsey,          $5.33B,          +$127M,          +$558M,          United States,          Technology
+499,            Prajogo Pangestu,          $5.32B,          +$84.6M,          +$800M,          Indonesia,          Energy
+500,            Daniel Tsai,          $5.32B,          +$113M,          +$372M,          Taiwan,          Finance
